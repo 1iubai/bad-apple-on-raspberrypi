@@ -1,1 +1,0 @@
-# bad-apple-on-raspberrypi
